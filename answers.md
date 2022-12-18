@@ -91,7 +91,9 @@ If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into a bowl.  
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
 ## Exercise 2
+
 >**OBML** is a feature available to _Opera Mini_ and browsers created using the _Opera_ Devices SDK 9.6 (all built upon the Presto 2.1 rendering engine)—when **OBML** is used to render a web page, instead of the whole page being downloaded to the device and rendered it is transformed into the ultra-compact **OBML** format then sent to the device, which reduces download sizes by up to **90**%. This offers obvious advantages to those using devices with _low memory_ or _low power_, who may also be downloading on slow networks. It does _however_ have _caveats_ that you need to be aware of, in terms of how it renders web technologies.  
 
 [OBML Source](https://dev.opera.com/articles/opera-binary-markup-language/)
