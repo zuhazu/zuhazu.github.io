@@ -56,22 +56,18 @@ I read this intresting quote the other day:
 
 #### Lists
 
-
 * Flour
 * Cheese
 * Tomatoes
-  
 
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in the four
-  
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysantemum_)
 * Dalhia (_Coreopsideae Dahlia_)
   
-
 * Calculus
   * A professor
   * Has no hair
@@ -81,7 +77,6 @@ I read this intresting quote the other day:
   * Has white hair
   * Is possibly mentaly unwell
   
-
 1. Cut the cheese
 
  Make sure that the cheese is cut into little triangles.
@@ -118,7 +113,8 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 
 ## Exercise 3
 
-Here is ~18min instruction video of how to play [Magic The Gathering](https://www.youtube.com/watch?v=wif9ppH5JpI).
+Here is ~18min instruction video of how to play Magic the gathering.
+[![prof](http://img.youtube.com/vi/wif9ppH5JpI/0.jpg)](https://www.youtube.com/watch?v=wif9ppH5JpI)
 
 My dog is called Ledo.
 ![Ledo](https://cdn.discordapp.com/attachments/435909898505814017/1014621152179650710/P_20220710_132720.jpg)
