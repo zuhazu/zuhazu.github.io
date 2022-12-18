@@ -61,13 +61,16 @@ I read this intresting quote the other day:
 * Cheese
 * Tomatoes
 
+
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in the four
 
+
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysantemum_)
 * Dalhia (_Coreopsideae Dahlia_)
+
 
 * Calculus
   * A professor
@@ -77,6 +80,8 @@ I read this intresting quote the other day:
   * An opera singer
   * Has white hair
   * Is possibly mentaly unwell
+
+
 
 1. Cut the cheese
 
