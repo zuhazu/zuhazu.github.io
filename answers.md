@@ -59,17 +59,17 @@ I read this intresting quote the other day:
 
 * Flour
 * Cheese
-* Tomatoes
+* Tomatoes  
 
 
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in the four
+3. Rub the tomatoes in the four  
 
 
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysantemum_)
-* Dalhia (_Coreopsideae Dahlia_)
+* Dalhia (_Coreopsideae Dahlia_)  
 
 
 * Calculus
