@@ -114,6 +114,8 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 ## Exercise 3
 
 Here is ~18min instruction video of how to play Magic the gathering.
+
+
 [![prof](http://img.youtube.com/vi/wif9ppH5JpI/0.jpg)](https://www.youtube.com/watch?v=wif9ppH5JpI)
 
 My dog is called Ledo.
