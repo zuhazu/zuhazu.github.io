@@ -1,5 +1,9 @@
 ## Exercise 1
+
+
 #### Bold and italic
+
+
 Writing in markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
@@ -13,6 +17,8 @@ If you're thinking to yourself, **_This is unbeliveable_**, you'd probably be ri
 #### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 #### links
+
+
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this](www.dailykitten.com)
 #### The Latest News from [the BBC](www.bbc.com/news)
@@ -33,6 +39,8 @@ Well, do i have [the website for you][another fun place]!
 
 
 #### Blockquotes
+
+
 I read this intresting quote the other day:
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -47,6 +55,8 @@ I read this intresting quote the other day:
 
 
 #### Lists
+
+
 * Flour
 * Cheese
 * Tomatoes
@@ -60,13 +70,13 @@ I read this intresting quote the other day:
 * Dalhia (_Coreopsideae Dahlia_)
 
 * Calculus
- * A professor
- * Has no hair
- * Often wears green
+  * A professor
+  * Has no hair
+  * Often wears green
 * Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentaly unwell
+  * An opera singer
+  * Has white hair
+  * Is possibly mentaly unwell
 
 1. Cut the cheese
 
